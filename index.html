@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Counter App</title>
-    <link rel="stylesheet" href="index.css" />
-  </head>
-  <body>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
     <h1>People entered</h1>
-    <h2 id="count-el">0</h2>
+    <h2 id = "count-el">0</h2>
     <button id="increment-btn" onclick="increment()">Increment</button>
     <button id="save-button" onclick="save()">Save</button>
     <button id="reset" onclick="reset()">Reset</button>
+    <button id="reset-button" onclick="error()">Display Error</button>
+    <h4 id="message">Previous entries</h4>
+    <p id="errormsg"></p>
     <script src="index.js"></script>
-  </body>
+</body>
 </html>
