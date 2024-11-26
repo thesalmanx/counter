@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f7f8fc;
-  color: #333;
+  color: #333; 
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -15,14 +15,14 @@ body {
 h1 {
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
-  color: #4a90e2;
+  color: #4a90e2; 
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
   font-size: 3rem;
   margin: 0.5rem 0 1rem;
-  color: #50c878;
+  color: #50c878; 
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
@@ -38,7 +38,7 @@ button {
 }
 
 button#increment-btn {
-  background-color: #fdd835;
+  background-color: #fdd835; 
   color: #333;
 }
 
@@ -48,12 +48,12 @@ button#save-button {
 }
 
 button#reset {
-  background-color: #50c878;
+  background-color: #50c878; 
   color: white;
 }
 
 button#reset-button {
-  background-color: #f56262;
+  background-color: #f56262; 
   color: white;
 }
 
@@ -69,7 +69,7 @@ button:active {
 h4 {
   margin-top: 1.5rem;
   font-size: 1.5rem;
-  color: #4a90e2;
+  color: #4a90e2; 
 }
 
 #errormsg {
