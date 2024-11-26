@@ -1,6 +1,7 @@
 # Counter App
 
 Welcome to the **Counter App**! 🎉
+### 👀 live demo https://abc-counter.netlify.app/
 
 This simple web app allows users to increment, save, and reset a counter, with a clean and delightful design. It's perfect for tracking entries, clicks, or any other countable events!
 
@@ -10,12 +11,6 @@ This simple web app allows users to increment, save, and reset a counter, with a
 - **Save** the current count.
 - **Reset** the counter to zero.
 - **Light and Delightful Design** with smooth animations and a calming color palette.
-
-## Demo
-
-Here is a preview of how the app looks:
-
-![Counter App](./assets/preview.png)
 
 ## Technologies Used
 
