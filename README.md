@@ -54,13 +54,4 @@ Press the **Display Error** button to simulate an error and show a red error mes
 
 Feel free to fork this repository and contribute improvements! If you find bugs or have suggestions, create an issue, or open a pull request.
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Acknowledgements
-
-- Thanks to all the contributors for helping make this app better!
-- Inspiration from various counter apps and tutorials online.
-
 Enjoy counting! 🎉
